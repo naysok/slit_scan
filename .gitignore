@@ -2,6 +2,15 @@
 .DS_Store
 
 
+### movie
+*.mov
+*.mp4
+
+
+### bash
+*.sh
+
+
 ### VSCode
 .vscode/
 
